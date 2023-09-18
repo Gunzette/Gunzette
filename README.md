@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/143669241">
+</div>
+
 - 👋 Hi, I’m @Gunzette
 - 🌈 I'm a trans woman and go by **she/her** pronouns
 - 💻 Now let's get to the actual programming stuff:
