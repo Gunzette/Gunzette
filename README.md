@@ -1,9 +1,5 @@
-<head>
-  <link rel="stylesheet" href="style.css">
-</head> 
-
 <div align="center">
-  <img class="smooth_edges" src="https://avatars.githubusercontent.com/u/143669241">
+  <img src="https://avatars.githubusercontent.com/u/143669241">
 </div>
 
 - 👋 Hi, I’m @Gunzette
